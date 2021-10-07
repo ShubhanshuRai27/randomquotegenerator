@@ -22,6 +22,12 @@
   border-radius: 50px;
 }
 
+@media screen and (max-width: 900px) {
+  .quote {
+    max-width: 400px;
+  }
+}
+
 .btn {
   background-color: rgb(29, 190, 218);
   border: none;
